@@ -1,0 +1,79 @@
+.jumbotron.top{
+  height:130px;
+}
+h1{
+  font-size:40px;
+  font-weight:900
+}
+.row.view{
+  font-family: 'Chewy', cursive;
+  color: black;
+  font-size: 40px;
+}
+.partition{
+  border: 4px solid black;
+}
+p{
+  text-align: right;
+}
+.col-sm-2{
+  font-family: 'Covered By Your Grace', cursive;
+  color:#FF5722;
+  font-size:15px;
+  text-align: right;
+  margin: 0px;
+}
+h5{
+  text-align: -webkit-auto;
+  font-size: xx-large;
+  color: tomato;
+  font-family: 'Macondo', cursive;
+  padding: 0px;
+}
+#search{
+  width: 200px;
+  height: 30px;
+  padding-left: 15px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.col-sm-3{
+  text-align: center;
+}
+iframe{
+    max-width: 100%;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}
+iframe.slider{
+  max-width: 100%;
+  height: 370px;
+}
+.space{
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+.bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #333;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+.thumbnail.books{
+  height: 450px;
+}
+.img-responsive.image{
+  height:360px;
+}
+#names{
+  text-align: left;
+  padding: 0px;
+}
+.container.data{
+  margin-top: 50px;
+}

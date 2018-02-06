@@ -1,0 +1,39 @@
+body{
+  margin: 100px 50px;
+}
+.container.main{
+  border: solid black 5px;
+  background-image: url("https://booksetownsnet.000webhostapp.com/a.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.sign-top{
+  margin: 50px;
+  width: 250px;
+  margin-bottom: 0px;
+  font-family:'Concert One', cursive;
+  font-size: 35px;
+  text-decoration: none;
+  color: black;
+}
+a.imp{
+  text-decoration: none;
+  color: black;
+}
+.abc{
+  font-family: 'Chewy', cursive;
+  color: black;
+  text-align: -webkit-center;
+  font-size: 62px;
+}
+iframe{
+  color: white;
+  font-size: 25px;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+.center{
+  align: center;
+}

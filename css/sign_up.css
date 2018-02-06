@@ -1,0 +1,12 @@
+body{
+  margin-right: 30%;
+  margin-left: 50px;
+  padding: 1px;
+  color: honeydew;
+  font-size: 25px;
+}
+.container{
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
